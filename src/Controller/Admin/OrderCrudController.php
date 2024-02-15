@@ -4,7 +4,6 @@ namespace App\Controller\Admin;
 
 use App\Entity\Order;
 use Doctrine\ORM\EntityManagerInterface;
-use App\Controller\Admin\OrderCrudController;
 use EasyCorp\Bundle\EasyAdminBundle\Config\Crud;
 use EasyCorp\Bundle\EasyAdminBundle\Config\Action;
 use EasyCorp\Bundle\EasyAdminBundle\Field\IdField;
