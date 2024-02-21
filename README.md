@@ -1,7 +1,7 @@
 # Symfony_ecommerce
 
 ## Description
-Ce projet est un site e-commerce développé dans le cadre de mon projet actuel. Il s'agit d'un site web basique permettant la vente de produits en ligne.
+Ce projet est un site e-commerce développé dans le cadre de mon projet actuel. Il s'agit d'un site web permettant la vente de produits en ligne.
 
 La stack technique utilisée pour ce projet est la suivante :
 
